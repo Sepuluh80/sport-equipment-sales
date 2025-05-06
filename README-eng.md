@@ -5,3 +5,4 @@
 - Develop a graph that displays which sports equipment brand performed best in sales for the respective year.
 - Add tables for profit YTD and profit MAT so that the sales team can analyze their sales performance.
 - Create a dashboard for Profit YTD (Year-To-Date) and Profit MAT (Moving Annual Total) to facilitate analysis of the available data.
+- Business insights and recommendations are created from data processing to make it easier for business owners to make decisions.
