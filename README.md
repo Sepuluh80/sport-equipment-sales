@@ -5,3 +5,4 @@
 - Dibuatkan grafik agar dapat dilihat alat olahraga dari brand mana yang performa penjualannya paling bagus di tahun tersebut.
 - Ditambahkan tabel profit YTD, dan profit MAT agar pihak sales dapat melakukan analisa kinerja penjualan mereka.
 - Dibuatkan dashboard untuk Profit YTD (Year-To-Date), dan Profit MAT (Moving Annual Total) agar memudahkan dalam melakukan analisis terhadap data yang ada.
+- Dibuatkan insight dan rekomendasi bisnis dari pengolahan data yang dilakukan untuk memudahkan pemilik bisnis membuat keputusan.
